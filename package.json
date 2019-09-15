@@ -36,4 +36,7 @@
   "devDependencies": {
     "eslint": "^4.3.0"
   }
+"scripts": {
+    "build": "next build"
+  }
 }
